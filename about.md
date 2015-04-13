@@ -45,7 +45,9 @@
 |----|------|
 |droid(退役)|10.8.8.11|
 |[yukari](http://yukari.nna774.net/)|10.8.8.12|
+|[akashi](https://akashi.nna774.net/)|10.8.8.13|
 |[ichigo](http://ichigo.nna774.net/)|10.8.8.15|
 |[utsutsu](http://utsutsu.nna774.net/)|10.8.8.32|
 |[sazanami](http://sazanami.nna774.net:8000)|10.8.8.33|
+|[deneb](https://10.8.8.34/)|10.8.8.34|
 |mba|10.8.8.142|
