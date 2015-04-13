@@ -27,7 +27,7 @@
 
 `yukari` がルーティングと DHCP をやっている。
 `yui` を DNS として、自分を NTP として配ってる。
-`ichigo` と `mba` は DHCP fix assign してる。
+`akashi` と `ichigo` と `mba` は DHCP fix assign してる。
 
 ### 割り当てポリシー
 
