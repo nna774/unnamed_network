@@ -16,10 +16,10 @@
 
 ### 割り当て状況
 
-|hostname|ip|
-|----|------|
-|yukari|10.42.42.1|
-|[yui](https://yui.nna774.net/)|10.42.42.3|
+|hostname|ip|名前の由来|
+|---|---|---|
+|yukari|10.42.42.1|家の中と外を分ける八雲紫|
+|[yui](https://yui.nna774.net/)|10.42.42.3|櫟井唯|
 
 ## 10.8.8.0/24
 
@@ -41,13 +41,13 @@
 
 ### 割り当て状況
 
-|hostname|ip|
-|----|------|
-|droid(退役)|10.8.8.11|
-|[yukari](http://yukari.nna774.net/)|10.8.8.12|
-|[akashi](https://akashi.nna774.net/)|10.8.8.13|
-|[ichigo](http://ichigo.nna774.net/)|10.8.8.15|
-|[utsutsu](http://utsutsu.nna774.net/)|10.8.8.32|
-|[sazanami](http://sazanami.nna774.net:8000)|10.8.8.33|
-|[deneb](https://10.8.8.34/)|10.8.8.34|
-|mba|10.8.8.142|
+|hostname|ip|名前の由来|
+|---|---|---|
+|droid(退役)|10.8.8.11|Android OS から(Android が動いていたわけではない)|
+|[yukari](http://yukari.nna774.net/)|10.8.8.12|日向縁ではない|
+|[akashi](https://akashi.nna774.net/)|10.8.8.13|明石(艦これ) と明石さん(四畳半神話大系) が6:4 ぐらい|
+|[ichigo](http://ichigo.nna774.net/)|10.8.8.15|星宮いちご|
+|[utsutsu](http://utsutsu.nna774.net/)|10.8.8.32|ガッチャマンクラウズのうつつ(元々はVMホストであった)|
+|[sazanami](http://sazanami.nna774.net:8000)|10.8.8.33|漣(艦これ)|
+|[deneb](https://10.8.8.34/)|10.8.8.34|？(先輩のところからうちに居候中)|
+|mba|10.8.8.142|MacBookAir|
