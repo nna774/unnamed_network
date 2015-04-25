@@ -50,4 +50,5 @@
 |[utsutsu](http://utsutsu.nna774.net/)|10.8.8.32|ガッチャマンクラウズのうつつ(元々はVMホストであった)|
 |[sazanami](http://sazanami.nna774.net:8000)|10.8.8.33|漣(艦これ)|
 |[deneb](https://10.8.8.34/)|10.8.8.34|？(先輩のところからうちに居候中)|
+|amatsukaze|10.8.8.35||
 |mba|10.8.8.142|MacBookAir|
