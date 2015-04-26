@@ -46,6 +46,7 @@
 |droid(退役)|10.8.8.11|Android OS から(Android が動いていたわけではない)|
 |[yukari](http://yukari.nna774.net/)|10.8.8.12|日向縁ではない|
 |[akashi](https://akashi.nna774.net/)|10.8.8.13|明石(艦これ) と明石さん(四畳半神話大系) が6:4 ぐらい|
+|kaede|10.8.8.14|高垣さん|
 |[ichigo](http://ichigo.nna774.net/)|10.8.8.15|星宮いちご|
 |[utsutsu](http://utsutsu.nna774.net/)|10.8.8.32|ガッチャマンクラウズのうつつ(元々はVMホストであった)|
 |[sazanami](http://sazanami.nna774.net:8000)|10.8.8.33|漣(艦これ)|
