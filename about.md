@@ -53,4 +53,5 @@
 |[deneb](https://10.8.8.34/)|10.8.8.34|？(先輩のところからうちに居候中)|
 |ushio|10.8.8.35|amatsukazeからrenamed|
 |sendai|10.8.8.36||
+|sumi|10.8.8.37||
 |mba|10.8.8.142|MacBookAir|
