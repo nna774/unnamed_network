@@ -53,6 +53,6 @@
 |[sazanami](http://sazanami.nna774.net:8000)|10.8.8.33|漣(艦これ)|
 |[deneb](https://10.8.8.34/)|10.8.8.34|？(先輩のところからうちに居候中)|
 |ushio|10.8.8.35|amatsukazeからrenamed|
-|sendai|10.8.8.36||
+|yumemi|10.8.8.36|sendaiよりrename|
 |sumi|10.8.8.37||
 |mba|10.8.8.142|MacBookAir|
